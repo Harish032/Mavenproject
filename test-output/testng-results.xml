@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T08:35:36 IST" name="Default suite" finished-at="2021-09-24T08:36:55 IST" duration-ms="79238">
+    <groups>
+    </groups>
+    <test started-at="2021-09-24T08:35:36 IST" name="Default test" finished-at="2021-09-24T08:36:55 IST" duration-ms="79238">
+      <class name="Mavenproject.Mavenproject.testngclass2">
+        <test-method signature="Testclass01()[pri:0, instance:Mavenproject.Mavenproject.testngclass2@14fa86ae]" started-at="2021-09-24T08:35:48 IST" name="Testclass01" finished-at="2021-09-24T08:36:07 IST" duration-ms="19731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testclass01 -->
+        <test-method signature="Testclass02()[pri:0, instance:Mavenproject.Mavenproject.testngclass2@14fa86ae]" started-at="2021-09-24T08:36:07 IST" name="Testclass02" finished-at="2021-09-24T08:36:46 IST" duration-ms="38936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testclass02 -->
+      </class> <!-- Mavenproject.Mavenproject.testngclass2 -->
+      <class name="Mavenproject.Mavenproject.testngclass">
+        <test-method is-config="true" signature="Browseropen()[pri:0, instance:Mavenproject.Mavenproject.testngclass@2474f125]" started-at="2021-09-24T08:35:36 IST" name="Browseropen" finished-at="2021-09-24T08:35:48 IST" duration-ms="11319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browseropen -->
+        <test-method signature="run()[pri:0, instance:Mavenproject.Mavenproject.testngclass@2474f125]" started-at="2021-09-24T08:36:46 IST" name="run" finished-at="2021-09-24T08:36:51 IST" duration-ms="5030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="Closeopen()[pri:0, instance:Mavenproject.Mavenproject.testngclass@2474f125]" started-at="2021-09-24T08:36:51 IST" name="Closeopen" finished-at="2021-09-24T08:36:55 IST" duration-ms="4144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeopen -->
+      </class> <!-- Mavenproject.Mavenproject.testngclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
